@@ -1,7 +1,7 @@
 git-suma
 ========
 
-Repositorio de prueba para el curso de GIT en SUMA Conectivo
+Repositorio de prueba para el curso de GIT en SUMA Conectivo 20140219
 
 La idea de este curso es que puedan:
 
